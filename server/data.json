@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "price": 300,
+      "quantity": 2,
+      "imgUrl": "https://images.pexels.com/photos/2528118/pexels-photo-2528118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "productName": "Sumsung",
+      "price": 400,
+      "quantity": 8,
+      "imgUrl": "https://images.pexels.com/photos/6893376/pexels-photo-6893376.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "productName": "Lenovo",
+      "price": 500,
+      "quantity": 33,
+      "imgUrl": "https://images.pexels.com/photos/5629220/pexels-photo-5629220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
